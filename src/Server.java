@@ -17,7 +17,7 @@ public class Server extends JFrame {
 
     }
     public static void main(String[] args) {
-        new Server();
+        new Server("");
 
     }
 }
