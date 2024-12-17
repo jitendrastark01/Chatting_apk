@@ -31,5 +31,5 @@ This is a simple Java-based Chatting Application that allows users to communicat
 
 ## Contributors
 
-- [Your Name](https://github.com/jitendrastark01)
+- Jitendra yadav(https://github.com/jitendrastark01)
 
