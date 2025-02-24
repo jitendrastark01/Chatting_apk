@@ -15,7 +15,7 @@ public class Server implements ActionListener {
     JPanel a1;
     static Box vertical = Box.createVerticalBox();
     static JFrame f = new JFrame();
-    static DataOutputStream dout;
+    static DataOutputStream dout; 
     
     Server() {
         
